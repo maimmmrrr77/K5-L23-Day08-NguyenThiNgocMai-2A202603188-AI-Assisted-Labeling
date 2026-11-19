@@ -1,0 +1,8 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,2A202603188,"Đã siết lại viền box person và rà đủ các phương tiện, không phát hiện lỗi tồn đọng"
+img_004.jpg,,khong,2A202603188,"Các box person, motorbike, car và three_wheeler ôm sát đối tượng, đúng nhãn"
+img_008.jpg,,khong,2A202603188,"Đầy đủ đối tượng >= 20 px, không có box trùng lặp hay sai lớp"
+img_014.jpg,,khong,2A202603188,"Đã thu hẹp box motorbike đúng biên xe, các đối tượng còn lại đạt chuẩn"
+img_017.jpg,,khong,2A202603188,"Đã loại bỏ box giả, khung bao xe ba bánh và người đi bộ chính xác"
+img_022.jpg,271,sai_vi_tri_kich_thuoc,2A202603188,"Box 271 bị nới lỏng viền ngang sang trái và hụt nhẹ đỉnh đầu (bẫy loose lọt)"
+img_034.jpg,,khong,2A202603188,"Rà toàn bộ 4 cạnh viền và thuộc tính can_review, không phát hiện sai sót"
